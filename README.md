@@ -1,5 +1,5 @@
 # Laboratorio de Ingeniería del Software
-Laboratorio de Ingeniería del Software es una asignatura de 4º curso del [grado en ingeniería informática de la Universida de Zaragoza](https://estudios.unizar.es/estudio/ver?id=148), en la especialidad de ingeniería del software.
+Laboratorio de Ingeniería del Software es una asignatura de 4º curso del [grado en ingeniería informática de la Universidad de Zaragoza](https://estudios.unizar.es/estudio/ver?id=148), en la especialidad de ingeniería del software.
 
 # Transparencias sobre Diseño Dirigido por el Dominio
 
