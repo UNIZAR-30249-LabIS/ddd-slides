@@ -22,6 +22,6 @@ Las transparecias están en formato OpenDocument y se han creado con LibreOffice
 # Licencia
 Salvo donde se indica lo contrario, las transparencias son Copyright © 2019 [Rubén Béjar](http://www.rubenbejar.com) bajo una [licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES). El reconocimiento en cualquier trabajo derivado a partir de este debe incluir el siguiente texto (e indicar que se han hecho cambios):
 
-`Basado en material con copyright © 2019 Rubén Béjar <http://www.rubenbejar.com>`
+`Basado en material con copyright © 2019 Rubén Béjar <https://www.rubenbejar.com>`
 
 
