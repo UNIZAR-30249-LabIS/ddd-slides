@@ -20,7 +20,7 @@ El curso incluye material de otras cosas, que espero ir publicando también. Con
 Las transparecias están en formato OpenDocument y se han creado con LibreOffice (con la aplicación Impress), aunque se pueden abrir en otros paquetes ofimáticos. También hay una carpeta con las transparencias en formato PDF.
 
 # Licencia
-Salvo donde se indica lo contrario, las transparencias son Copyright © 2019 [Rubén Béjar](http://www.rubenbejar.com) bajo una [licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES). El reconocimiento en cualquier trabajo derivado a partir de este debe incluir el siguiente texto (e indicar que se han hecho cambios):
+Salvo donde se indica lo contrario, las transparencias son Copyright © 2022 [Rubén Béjar](http://www.rubenbejar.com) bajo una [licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES). El reconocimiento en cualquier trabajo derivado a partir de este debe incluir el siguiente texto (e indicar que se han hecho cambios):
 
 `Basado en material con copyright © 2019 Rubén Béjar <https://www.rubenbejar.com>`
 
